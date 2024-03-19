@@ -10,7 +10,7 @@ public class IdealWeigth {
         String height;
         int options = JOptionPane.showOptionDialog(null, "Escolha o sexo cujo você deseja utilizar para fazer o cálculo", "Selecione:", 0, 3, null, gender, gender[0]);
         height = JOptionPane.showInputDialog("Digite sua altura: ");
-        heightToDouble = Double.parseDouble(height);
+        heightToDouble = Double.parseDouble(height);    
         
         if (options == 0){
             idealWeigth = (72.7 * heightToDouble) - 58;
