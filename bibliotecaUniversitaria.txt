@@ -1,0 +1,28 @@
+Biblioteca universitaria:
+
+(classe) Usuario
+(metodo) CadastroProfessor
+- departamento
+- endereco
+- nome
+(metodo) CadastroAluno
+- endereco
+- nome 
+- ra
+(metodo) CadastroFuncionario
+- departamento
+- endereco
+- nome
+
+(classe) Livro
+(metodo) exibirLivro
+(metodo) cadastroLivro
+- tipoLivro (fisico ou virtual)
+- tipoMaterial (Livros científicos, periódicos científicos, periódicos diversos, entretenimento e outros);
+- idioma;
+- midia;
+- autor 
+- nacionalidadeAutor
+- editora
+- anoEdicao
+- historicoEmprestimos

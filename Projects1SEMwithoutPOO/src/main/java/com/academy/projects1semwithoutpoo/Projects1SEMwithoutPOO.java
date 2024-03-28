@@ -20,6 +20,7 @@ public class Projects1SEMwithoutPOO {
         MultiTableWhile tableWhile = new MultiTableWhile();
         OptionProduct optionProd = new OptionProduct();
         ProgramOver20 over20 = new ProgramOver20();
+        
         //Área de evoke dos métodos:
     }
 }
